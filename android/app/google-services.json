@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "226245775675",
+    "project_id": "food-reco",
+    "storage_bucket": "food-reco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226245775675:android:f56f063591dea882a8271e",
+        "android_client_info": {
+          "package_name": "com.ahmadalfrehan.foodreco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226245775675-rja704jqm26840l5qc063nfd37gcjk6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmadalfrehan.foodreco",
+            "certificate_hash": "40113319d4d1fb433525f7a673a1d47f517516d7"
+          }
+        },
+        {
+          "client_id": "226245775675-892dc3a681u7t7cbl5qjrscitp40g0di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBePAcbZ7yxUH4xAPvpMjJx_plEmq4NOFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226245775675-892dc3a681u7t7cbl5qjrscitp40g0di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
