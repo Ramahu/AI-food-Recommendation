@@ -1,4 +1,4 @@
-# project2
+# Food recommendation system
 
 A new Flutter project.
 
