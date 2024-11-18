@@ -1,3 +1,3 @@
-#AI Food recommendation system
+# AI Food Recommendation System
 
 
