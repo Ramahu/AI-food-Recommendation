@@ -15,9 +15,15 @@ The system allow users to securely log in using their registered credentials.
 Login include validation for email and password.
 Provide a "Forgot Password" feature to reset credentials.
 
-2- Account Creation :
+![5992497362934807780](https://github.com/user-attachments/assets/a806bf81-ef28-450d-9011-a6df16ba71e7)
+
+
+2- Create Account :
 The system enable users to create a new account by providing necessary information such as:
 Name , Email , Phone number , Password , Gender .
+
+![5992497362934807781](https://github.com/user-attachments/assets/ee0d79a1-7ad7-44f9-9924-c855d350e45b)
+
 
 3- Health Questionnaire :
 The system allow users to complete a health questionnaire to gather personal data essential for determining individualized dietary needs.
