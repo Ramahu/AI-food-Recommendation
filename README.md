@@ -9,16 +9,17 @@ Use Case Diagram
 
 
 Functional Requirements :
- 1- Login
+
+ 1- Login :
 The system allow users to securely log in using their registered credentials.
 Login include validation for email and password.
 Provide a "Forgot Password" feature to reset credentials.
 
-2- Account Creation
+2- Account Creation :
 The system enable users to create a new account by providing necessary information such as:
 Name , Email , Phone number , Password , Gender .
 
-3- Health Questionnaire
+3- Health Questionnaire :
 The system allow users to complete a health questionnaire to gather personal data essential for determining individualized dietary needs.
 Questionnaire Fields : Age , Gender , Height , Weight , Allergies ,
 Activity Level ( Option to specify if the user is athletic or sedentary) ,
