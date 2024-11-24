@@ -18,7 +18,7 @@ Provide a "Forgot Password" feature to reset credentials.
 
 2- Create Account :
 The system enable users to create a new account by providing necessary information such as:
-Name , Email , Phone number , Password , Gender .
+Name , Email , Password , Gender .
 
 
 3- Health Questionnaire :
