@@ -30,3 +30,15 @@ Health Conditions ( select options for pre-existing medical conditions ) ,
 Diet Preference ( Whether the user is vegetarian or non-vegetarian ) .
 
 
+![Mobile App Screen Mockup, Floating](https://github.com/user-attachments/assets/360031bb-4416-4ffb-9ea2-a6b4e3d4be40)
+
+
+![Mobile App Screen Mockup, Floating (1)](https://github.com/user-attachments/assets/c25e6382-1005-43f6-92cf-192f6e8f81f2)
+
+
+![Mobile App Screen Mockup, Floating (2)](https://github.com/user-attachments/assets/5c4be46f-5b1e-4398-b127-5bff6fa2130b)
+
+
+![Mobile App Screen Mockup, Floating (5)](https://github.com/user-attachments/assets/3dcab0de-1135-4b2f-8967-afa82843b8a1)
+
+
