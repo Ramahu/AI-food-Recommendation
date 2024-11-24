@@ -13,7 +13,11 @@ Functional Requirements :
  1- Login :
 The system allow users to securely log in using their registered credentials.
 Login include validation for email and password.
-Provide a "Forgot Password" feature to reset credentials.
+Provide a "Forgot Password" feature 
+
+https://github.com/user-attachments/assets/bbbdef20-5bb3-4ce4-a206-d1b843509514
+
+o reset credentials.
 
 
 2- Create Account :
