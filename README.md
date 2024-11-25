@@ -7,12 +7,12 @@ https://github.com/user-attachments/assets/bbbdef20-5bb3-4ce4-a206-d1b843509514
 
 
 
-Use Case Diagram
+## Use Case Diagram :
 
 ![use case2](https://github.com/user-attachments/assets/3699d7de-9450-43d2-bd57-457693e7a0a3)
 
 
-Functional Requirements :
+## Functional Requirements :
 
  1- Login :
 The system allow users to securely log in using their registered credentials.
@@ -35,20 +35,20 @@ Diet Preference ( Whether the user is vegetarian or non-vegetarian ) .
 4- Display of Daily Nutritional Values:  
 Provides a daily summary of essential nutritional values such as calories, protein, sodium ,carb , sugar , fiber , cholesterol , fat and saturatedfat based on the user's needs.
 
-5- Display of Nutritional Values and Suggested Foods for Each Meal:  
+5- Display of Nutritional Values and Suggested Foods for Each Meal:
 Suggests suitable foods based on the targeted nutritional values for each meal of the day (breakfast, lunch, dinner).
 
-6- Display All Details of Suggested Foods:  
+6- Display All Details of Suggested Foods:
 Allows users to view complete details of the suggested foods, including nutritional values, ingredients, and calorie content.
 
 7- Add Food to Favorites:
   Allows users to add their preferred foods to a favorites list for easy access.  
 
 8- Remove Food from Favorites:
-  Enables users to delete foods from their favorites list.  
+ Enables users to delete foods from their favorites list.  
 
 9- View All Favorite Foods:
-  Provides users with the ability to view all the foods saved in their favorites list. 
+Provides users with the ability to view all the foods saved in their favorites list. 
 
 10- Search for Food by Nutritional Components: 
 Allows users to search for foods based on specific nutritional components.
@@ -57,7 +57,7 @@ Allows users to search for foods based on specific nutritional components.
 Enables users to securely log out of their accounts, ensuring their session is terminated.
 
 
-Interface : 
+## Interface : 
 
 ![Mobile App Screen Mockup, Floating](https://github.com/user-attachments/assets/360031bb-4416-4ffb-9ea2-a6b4e3d4be40)
 
