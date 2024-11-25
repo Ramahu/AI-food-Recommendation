@@ -59,6 +59,14 @@ Enables users to securely log out of their accounts, ensuring their session is t
 
 ## Interface : 
 
+Splash screen and onboarding :
+
+
+![5920228804398269624](https://github.com/user-attachments/assets/8a6735e6-602d-42e1-a5e0-b10e5f5e9518)
+
+Login , create account , drawer , home page :
+
+
 ![Mobile App Screen Mockup, Floating](https://github.com/user-attachments/assets/360031bb-4416-4ffb-9ea2-a6b4e3d4be40)
 
 
