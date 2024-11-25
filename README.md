@@ -32,7 +32,7 @@ Goal ( Weight gain , Weight loss , Weight maintenance , Muscle building ) ,
 Health Conditions ( select options for pre-existing medical conditions ) ,
 Diet Preference ( Whether the user is vegetarian or non-vegetarian ) .
 
-4- Display of Daily Nutritional Values:  
+4- Display of Daily Nutritional Values:
 Provides a daily summary of essential nutritional values such as calories, protein, sodium ,carb , sugar , fiber , cholesterol , fat and saturatedfat based on the user's needs.
 
 5- Display of Nutritional Values and Suggested Foods for Each Meal:
