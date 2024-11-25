@@ -53,6 +53,11 @@ Allows users to view complete details of the suggested foods, including nutritio
 10- Search for Food by Nutritional Components: 
 Allows users to search for foods based on specific nutritional components.
 
+11- Logout:
+Enables users to securely log out of their accounts, ensuring their session is terminated.
+
+
+Interface : 
 
 ![Mobile App Screen Mockup, Floating](https://github.com/user-attachments/assets/360031bb-4416-4ffb-9ea2-a6b4e3d4be40)
 
