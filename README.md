@@ -32,6 +32,27 @@ Goal ( Weight gain , Weight loss , Weight maintenance , Muscle building ) ,
 Health Conditions ( select options for pre-existing medical conditions ) ,
 Diet Preference ( Whether the user is vegetarian or non-vegetarian ) .
 
+4- Display of Daily Nutritional Values:  
+Provides a daily summary of essential nutritional values such as calories, protein, sodium ,carb , sugar , fiber , cholesterol , fat and saturatedfat based on the user's needs.
+
+5- Display of Nutritional Values and Suggested Foods for Each Meal:  
+Suggests suitable foods based on the targeted nutritional values for each meal of the day (breakfast, lunch, dinner).
+
+6- Display All Details of Suggested Foods:  
+Allows users to view complete details of the suggested foods, including nutritional values, ingredients, and calorie content.
+
+7- Add Food to Favorites:
+  Allows users to add their preferred foods to a favorites list for easy access.  
+
+8- Remove Food from Favorites:
+  Enables users to delete foods from their favorites list.  
+
+9- View All Favorite Foods:
+  Provides users with the ability to view all the foods saved in their favorites list. 
+
+10- Search for Food by Nutritional Components: 
+Allows users to search for foods based on specific nutritional components.
+
 
 ![Mobile App Screen Mockup, Floating](https://github.com/user-attachments/assets/360031bb-4416-4ffb-9ea2-a6b4e3d4be40)
 
