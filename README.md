@@ -68,12 +68,15 @@ Login , Create account , Drawer , Home page :
 ![Mobile App Screen Mockup, Floating](https://github.com/user-attachments/assets/360031bb-4416-4ffb-9ea2-a6b4e3d4be40)
 
 Nutritional Values and Suggested Foods for Each Meal , Health Questionnaire :
+
 ![Mobile App Screen Mockup, Floating (1)](https://github.com/user-attachments/assets/c25e6382-1005-43f6-92cf-192f6e8f81f2)
 
-Search for Food , Details of Foods , Favorites Food:
+Search for Food , Details of Foods , Show Favorites Food:
+
 ![Mobile App Screen Mockup, Floating (2)](https://github.com/user-attachments/assets/5c4be46f-5b1e-4398-b127-5bff6fa2130b)
 
-Add Food to Favorites , Delete from Favorites , Show Favorites :
+ Show Favorites Food , Delete from Favorites Food :
+
 ![Mobile App Screen Mockup, Floating (5)](https://github.com/user-attachments/assets/3dcab0de-1135-4b2f-8967-afa82843b8a1)
 
 
