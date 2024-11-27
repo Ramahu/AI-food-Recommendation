@@ -29,7 +29,6 @@ https://github.com/user-attachments/assets/a080528a-56e2-4cc2-83f0-f155798dfe1d
  1- Login :
 The system allow users to securely log in using their registered credentials.
 Login include validation for email and password.
-Provide a "Forgot Password" feature or reset credentials.
 
 2- Create Account :
 The system enable users to create a new account by providing necessary information such as:
