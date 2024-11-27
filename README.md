@@ -92,3 +92,33 @@ Search for Food , Details of Foods , Show Favorites Food:
 ![Mobile App Screen Mockup, Floating (5)](https://github.com/user-attachments/assets/3dcab0de-1135-4b2f-8967-afa82843b8a1)
 
 
+## Technology Stack for the AI Food Recommendation System :
+
+Frontend: Built using Flutter with the following tools and libraries:
+
+1- State Management:
+
+BLoC (Business Logic Component): Implements the separation of business logic and UI for predictable state management.
+Provides a scalable and testable architecture.
+
+2- API Integration:
+
+Dio: Handles advanced REST API integration, including interceptors, authentication, and error handling.
+Caching:
+
+3- Caching : 
+
+Shared Preferences: Stores user data locally, such as login credentials, user preferences, and settings.
+
+4- UI Enhancements:
+
+Google Fonts: Adds a variety of customizable and visually appealing fonts to the application.
+
+Water Drop Navigation Bar: Creates an interactive and visually engaging bottom navigation bar.
+
+Flutter Advanced Drawer: Provides a sleek and customizable navigation drawer.
+
+Neumorphic UI: Implements modern, soft design elements for an aesthetically pleasing user interface.
+
+Flutter Onboarding: Facilitates smooth onboarding flows to introduce app features to new users.
+
