@@ -100,6 +100,9 @@ Frontend: Built using Flutter with the following tools and libraries:
 BLoC (Business Logic Component): Implements the separation of business logic and UI for predictable state management.
 Provides a scalable and testable architecture.
 
+![5800727494075206081](https://github.com/user-attachments/assets/9106dd87-ec1e-44fc-9de6-ae7276c841f2)
+
+
 2- API Integration:
 
 Dio: Handles advanced REST API integration, including interceptors, authentication, and error handling.
